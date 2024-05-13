@@ -123,6 +123,12 @@ Clone the RHEL AI Developer Preview git repo
 git clone https://github.com/RedHatOfficial/rhelai-dev-preview
 ```
 
+Change the directory to the cloned `rhelai-dev-preview` repo
+
+```sh
+cd rhelai-dev-preview
+```
+
 Authenticate to the Red Hat registry ([Red Hat Container Registry
 Authentication](https://access.redhat.com/RegistryAuthentication)) using your
 `redhat.com` account.
